@@ -4,20 +4,20 @@
 index:
   en: 
   de: index-de.html
-  sr-hr-lat: index-sr-hr-lat.html
-  sr-hr-cir: index-sr-hr-cir.html
+  hr: index-sr-hr-lat.html
+  sr: index-sr-hr-cir.html
 
 # Content
 title:
   en: Memories and Recipes
   de: Erinnerungen und Rezepte
-  sr-hr-lat: Sjećanja i recepte
-  sr-hr-cir: Сећања и рецепти
+  hr: Sjećanja i recepte
+  sr: Сећања и рецепти
 description:
   en: A blog about food, glorious food, in three languages. Well, four, if you count the extra alphabet.
   de: Ein Blog über's Essen, auf drei Sprachen. Naja, vier, wenn man das vierte Alphabet auch zählt.
-  sr-hr-lat: Moj blog o hrani, na tri jezikama. Pa dobro, četiri, ako računate dodatnu abecedu.
-  sr-hr-cir: Мој блог о храни, на три језикама. Па добро, четири, ако рачунате додатну абецеду.
+  hr: Moj blog o hrani, na tri jezikama. Pa dobro, četiri, ako računate dodatnu abecedu.
+  sr: Мој блог о храни, на три језикама. Па добро, четири, ако рачунате додатну абецеду.
 twitter_username: zojasav
 github_username:  zojasavkovic
 

@@ -4,7 +4,7 @@ title:  "Karbonara u melburnu"
 date:   2017-05-26 00:00:00 +0100
 categories: restaurant
 ref: carbonara
-lang: sr-hr-lat
+lang: hr
 ---
 
 *Karbonara mi je broj jedan u talijanskim restoranima. U jesenu u Melburnu, je jedan prijatelj podijelio sa mnom istoriju ovog jela. Odmah su mi okusi se sklopili. Slanina, jaja i gljive su jednostavni doručak kad razmisliš.*
