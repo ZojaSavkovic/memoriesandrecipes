@@ -29,8 +29,34 @@
 
 <div class="wrapper" style="text-align: right; line-height: 2em">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">
+    {% if post.lang == 'de' %}
+      {% include icon-flag-de.html %}
+    {% endif %}
+    {% if post.lang == 'en' %}
+      {% include icon-flag-en.html %}
+    {% endif %}
+    {% if post.lang == 'hr' %}
+      {% include icon-flag-hr.html %}
+    {% endif %}
+    {% if post.lang == 'sr' %}
+      {% include icon-flag-sr.html %}
+    {% endif %}
+  </a> {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+  {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">
+    {% if page.lang == 'de' %}
+      {% include icon-flag-de.html %}
+    {% endif %}
+    {% if page.lang == 'en' %}
+      {% include icon-flag-en.html %}
+    {% endif %}
+    {% if page.lang == 'hr' %}
+      {% include icon-flag-hr.html %}
+    {% endif %}
+    {% if page.lang == 'sr' %}
+      {% include icon-flag-sr.html %}
+    {% endif %}
+  </a> {% endfor %}
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Куркума Латте"
 date:   2017-06-18 00:00:00 +0100
-categories: cafe
+categories: eatingout
 ref: turmeric-latte
 lang: sr
 ---

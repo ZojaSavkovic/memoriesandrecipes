@@ -2,7 +2,7 @@
 layout: post
 title:  "Turmeric Latte"
 date:   2017-06-18 00:00:00 +0100
-categories: cafe
+categories: eatingout
 ref: turmeric-latte
 lang: en
 ---
@@ -17,6 +17,4 @@ After appreciating the display, I notice the shiny lab like kitchen behind it. S
 
 ![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-panaChocolateTurmericLatte.jpg)
 
-It’s basically a turmeric chai latte, a common drink originating in India, which is only recently popping up in western hipster culture. This one is an A+. I sit sipping wondering how I had not come across it before. It has definitely made it onto my list of hot drink options.
-
-
+It’s basically a turmeric chai latte, a drink apparently originating in India, which is only recently popping up in western hipster culture. This one is an A+. I sit sipping wondering how I had not come across it before. It has definitely made it onto my list of hot drink options.

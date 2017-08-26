@@ -2,7 +2,7 @@
 layout: post
 title:  "Carbonara in Melbourne"
 date:   2017-05-26 00:00:00 +0100
-categories: restaurant
+categories: eatingout
 ref: carbonara
 lang: de
 ---
