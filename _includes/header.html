@@ -28,6 +28,7 @@
 </header>
 
 <div class="wrapper" style="text-align: right; line-height: 2em">
+<div class="nounderline">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">
     {% if post.lang == 'de' %}
@@ -59,4 +60,5 @@
       {% include icon-flag-sr.html %}
     {% endif %}
   </a> {% endfor %}
+</div>
 </div>

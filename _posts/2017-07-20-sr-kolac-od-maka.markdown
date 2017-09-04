@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Poppy Seed Cake"
+title:  "Kolac od maka"
 date:   2017-07-20 00:00:00 +0100
 categories: recipe
 ref: poppy-seed-cake
-lang: en
+lang: sr
 ---
 
 *Poppy seeds. They have this taste. Just like sesame seeds have their taste. I was intrigued when I bought a poppy seed slice at a German bakery recently. I then decided to search around for recipes with poppy seeds. A cake seemed like a sensible entry level decision. I have made a poppy seed cake twice now, recipe below.*

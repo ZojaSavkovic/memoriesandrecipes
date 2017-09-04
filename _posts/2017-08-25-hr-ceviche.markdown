@@ -4,11 +4,11 @@ title:  "Ceviche"
 date:   2017-08-25 00:00:00 +0100
 categories: eatingout
 ref: ceviche
-lang: en
+lang: hr
 ---
 
 *I discovered this dish on holiday in Port Douglas by the seaside.*
 
-Ceviche is raw fish that is cured in lime or lemon juice. So while it is not cooked by heat, it's not quite raw either since it's cured. Delicious!
+Ceviche is raw fish that is cured in lime or lemon juice. It is not cooked by heat, but alters chemically from the acid in the lime or lemon juice.
 
 ![Ceviche]({{ site.baseurl }}/assets/2017-08-25-ceviche.jpg)
