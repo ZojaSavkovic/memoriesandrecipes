@@ -27,10 +27,10 @@ twitter_username: zojasav
 github_username:  zojasavkovic
 
 # URL config - deployed - base hostname and protocol for the site:
-url: "http://zojasavkovic.github.io"
+url: "http://memoriesandrecipes.com"
 
 # Subpath of the site:
-baseurl: "/memoriesandrecipes"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
