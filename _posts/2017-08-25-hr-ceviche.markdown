@@ -7,8 +7,9 @@ ref: ceviche
 lang: hr
 ---
 
-*I discovered this dish on holiday in Port Douglas by the seaside.*
+*Otkrila sam ovo jelo na odmoru, kraj mora u Port Douglasu.*
 
-Ceviche is raw fish that is cured in lime or lemon juice. It is not cooked by heat, but alters chemically from the acid in the lime or lemon juice.
+Ceviche je sirova riba koja je očuvana u limunovom ili limunovom soku. Dakle, dok se ne kuha, nije ni sirova jer je očuvana. Savršeno za ljeto!
 
 ![Ceviche]({{ site.baseurl }}/assets/2017-08-25-ceviche.jpg)
+

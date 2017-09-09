@@ -20,18 +20,18 @@ flag:
   sr: icon-flag-sr.html
 description:
   en: This is a blog that allows me to keep busy eating, writing and coding! It has me posting about food in a number of languages that I speak so that I don’t forget them, while learning about the software behind this site which is hosted for free. Hope you enjoy reading!
-  de: Dies ist ein Blog, der mir erlaubt, beschäftigt zu essen, zu schreiben und zu codieren! Es hat mich über das Essen in einer Reihe von Sprachen, die ich spreche, damit ich sie nicht vergessen, während das Lernen über die Software hinter dieser Website, die kostenlos gehostet wird. Hoffe, dass Sie gerne lesen!
-  hr: Moj blog o hrani, na tri jezikama. Pa dobro, četiri, ako računate dodatnu abecedu.
-  sr: Мој блог о храни, на три језикама. Па добро, четири, ако рачунате додатну абецеду.
+  de: Dies ist ein Blog, wo ich mich eigentlich mit Essen, Schreiben und Codieren beschäftige! Ich schreibe über's Essen auf mehreren Sprachen, die ich spreche, damit ich sie nicht vergesse, während ich über die Software hinter dieser Website lerne, die kostenlos gehostet wird. Viel Spass beim lesen!
+  hr: Ovo je blog koji mi omogućuje da jedem, pišem i kodiram! Pišem o hrani na nekolokom jezika, koje govorim, tako da ih ne zaboravim. Učim o softveru za ovu stranicu, i stranici je besplatno hostirana. Nadam se da vam se sviđa u čitanju!
+  sr: Ово је блог који ми омогућује да једем, пишем и кодирам! Пишем о храни на неколоком језика, које говорим, тако да их не заборавим. Учим о софтверу за ову страницу, и страници је бесплатно хостирана. Надам се да вам се свиђа у читању!
 twitter_username: zojasav
 github_username:  zojasavkovic
 linkedin_username:  zojasavkovic
 
 # URL config - deployed - base hostname and protocol for the site:
-url: "http://zojasavkovic.github.io"
+url: "http://memoriesandrecipes.com"
 
 # Subpath of the site:
-baseurl: "/memoriesandrecipes"
+baseurl: ""
 
 # Build settings
 markdown: kramdown

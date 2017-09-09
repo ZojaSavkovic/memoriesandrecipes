@@ -92,7 +92,24 @@
     }
 }
 
+/**
+ * Flags in site header
+ */
+img.flag {
+    width: 30px;
+    height: 15px;
+    vertical-align: middle;
+    path {
+        fill: $grey-color;
+    }
+}
 
+// Flag links should not be underlined
+div.nounderline a:hover {
+    text-decoration: none;
+    border: none;
+    box-shadow: none;
+}
 
 /**
  * Site footer
@@ -234,23 +251,4 @@
             font-size: 18px;
         }
     }
-}
-
-/**
- * Flags
- */
-img.flag {
-    width: 30px;
-    height: 15px;
-    vertical-align: middle;
-    path {
-        fill: $grey-color;
-    }
-}
-
-// Flag links should not be underlined
-div.nounderline a:hover {
-    text-decoration: none;
-    border: none;
-    box-shadow: none;
 }

@@ -17,6 +17,6 @@ Nachdem, bemerke ich eine glänzende Küche dahinter, wie ein Labor. Bisher sind
 
 ![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-panaChocolateTurmericLatte.jpg)
 
-Es ist im Grunde ein Kurkuma Chai Latte, ein gewöhnliches Getränk aus Indien, das erst vor kurzem in der westlichen Hipsterkultur auftaucht. Das ist ein A +. Ich sitze nippen und fragte mich, wie ich es noch nicht kannte. Es ist jetzt definitiv auf meiner Liste von Heißgetränk-Optionen.
+Es ist im Grunde ein Kurkuma Chai Latte, ein Getränk anscheinend aus Indien, das erst vor kurzem in der westlichen Hipsterkultur auftaucht. Das ist ein A +. Ich sitze nippen und fragte mich, wie ich es noch nicht kannte. Es ist jetzt definitiv auf meiner Liste von Heißgetränk-Optionen.
 
 

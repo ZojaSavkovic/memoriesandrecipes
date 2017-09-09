@@ -7,8 +7,8 @@ ref: ceviche
 lang: de
 ---
 
-*I discovered this dish on holiday in Port Douglas by the seaside.*
+*Ich entdeckte dieses Gericht im Urlaub, am Meer in Port Douglas.*
 
-Ceviche is raw fish that is cured in lime or lemon juice. It is not cooked by heat, but alters chemically from the acid in the lime or lemon juice.
+Ceviche ist roher Fisch, der in Kalk oder Zitronensaft gepökelt ist. Es ist nicht gekocht, aber es ist auch nicht roh, da es gepökelt ist. Perfekt für den Sommer!
 
 ![Ceviche]({{ site.baseurl }}/assets/2017-08-25-ceviche.jpg)

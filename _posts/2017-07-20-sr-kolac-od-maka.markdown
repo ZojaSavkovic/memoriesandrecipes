@@ -1,54 +1,54 @@
 ---
 layout: post
-title:  "Kolac od maka"
+title:  "Колач од мака"
 date:   2017-07-20 00:00:00 +0100
 categories: recipe
 ref: poppy-seed-cake
 lang: sr
 ---
 
-*Poppy seeds. They have this taste. Just like sesame seeds have their taste. I was intrigued when I bought a poppy seed slice at a German bakery recently. I then decided to search around for recipes with poppy seeds. A cake seemed like a sensible entry level decision. I have made a poppy seed cake twice now, recipe below.*
+*Сјеменке мака. Имају овај укус. Као што сјеме сезама има свој укус. Заинтересирала сам се кад сам недавно купила кришку од мака у њемачкој пекарници. Потом сам одлучила тражити рецепте с сјеменки мака. Колач ми био паметна одлука, јер нио превише компликован. Двапут сам направила колач од сјеменки мака, рецепт испод.*
 
-My second attempt in a round tin is more glamorous and gets the top picture spot!
+Мој други покушај у округлој тепсији је више је гламурозан.
 
-![Second Poppy Seed Cake  - made in a round tin]({{ site.baseurl }}/assets/2017-07-20-poppySeedRoundTin.jpg)
+![Први колач од мака - у округлој тепсији]({{ site.baseurl }}/assets/2017-07-20-poppySeedRoundTin.jpg)
 
-**Ingredients for the cake:**
-* 240 g (1½ cups) poppy seeds
-* 250 ml (1 cup) milk
-* 150 g butter
-* 1 tsp vanilla
-* 170 g caster sugar
-* 5 egg yolks
-* 180 g (1½ cups) ground almonds
-* 1 tsp baking powder
-* pinch of salt
-* 5 egg whites
+**Састојци за колач:**
+* 240 г сјеменке мака
+* 250 мл мљеко
+* 150 г маслац
+* 1 чајна жличиц ванилија
+* 170 г шећер
+* 5 жумањка јајета
+* 180 г мљевене бадеме
+* 1 чајна жличиц прашак за пециво
+* прстохват соли
+* 5 бјелањаке
 
-**Ingredients for the icing:**
-* 150 g dark chocolate
-* 125 ml (½ cup) pouring cream
+**Састојци за глазуру:**
+* 150 г тамна чоколада
+* 125 мл крема
 
-**Steps the day before:**
-1. Pour boiling water over the poppy seeds in a bowl.
-2. Strain and return to bowl with the milk.
-3. Refrigerate overnight, then drain well.
+**Припрема дан прије:**
+1. Улијте кипућу воду преко сјеменки мака у зђелу.
+2. Проциједите и вратите се у зђелу с млијеком.
+3. Преко ноћи ставите у фрижидер, и онда добро исушите.
 
-**Steps:**
-1. Preheat the oven to 150°C.
-2. Beat the butter, vanilla and caster sugar until pale and fluffy.
-3. Beat in the egg yolks, one by one.
-4. Stir in the ground almonds, baking powder, a pinch of salt and poppy seeds.
-5. Fold in the egg whites, beaten to stiff peaks.
-6. Pour in to a greased, lined 20 cm springform pan and bake for 1 hour, or until just firm.
-7. Stand for 5 minutes, then turn out on to a plate and cool.
-8. Melt the dark chocolate with the pouring cream.
-9. Cool for 20 minutes, then spread over the cake.
+**Припрема:**
+1. Загријте пећницу на  150°Ц.
+2. Побиједите маслац, ванилију и пециво шећер док не постанете блиједи и софи.
+3. Додајте жумањца, једно по једно.
+4. Умијешајте у земљу бадеми, прашак за пециво, прстохват соли и мака сјемена.
+5. Пресавијте се у бјелањцима, претучене у круте врхове.
+6. Улијте на подмазану, обложену таву од 20 цм и пеците 1 сат, или док не будете чврсто.
+7. Стајати 5 минута, и затим на тањур ставити да се охлади.
+8. Темељну чоколаду растопите с врхњем за лијевање.
+9. Стајати 20 минута, и затим размазите преко колача.
 
-The first time I made it I used a square tin, shovelled it in to a lunch box and brought it along to a Christmas in July country escape and it was a hit. The picture below by the woodfire in the background captures the moment. It was apt for a Christmas theme, as searching online, it is a Ukrainian custom at Christmas.
+Први пут кад сам направила колач, користила сам четвртастој тепсију, и ставила у кутију за ручак и довла на екскурзију божића у Јулу, и било је хит. Сљедећа слика са камином у позадини биљежи тренутак. Био је прикладан за божићну тему, јер претражује он-лине, то је украјински обичај на Божић.
 
-![First Poppy Seed Cake  - made in a square tin]({{ site.baseurl }}/assets/2017-07-20-poppySeedSquareTin.jpg)
+![Први колач од мака - у четвртастој тепсији]({{ site.baseurl }}/assets/2017-07-20-poppySeedSquareTin.jpg)
 
-To finish, a picture of the poppy seed slice that I bought at a German bakery that started my adventure.
+И, слика кришке која је започела моју авантуру.
 
-![The slice that started it all]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)
+![Кришка која је започела моју авантуру]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)

@@ -5,6 +5,10 @@ ref: about
 lang: hr
 ---
 
-Želim da zadržim jezike koje pričam, umjesto da ih izgubim. Pa sumljam višejezični blog kao dobra ideja.
+Ovaj blog je o tri stvari za mene - hrana, jezik i softver.
 
-Svaki dan jedemo, i pričamo o jelu. Pa sam htjela malo da blog-iram. Dakle, tema hrane, recepata i sjećanja povezanih s tim je savršena tema za blog.
+**Hrana:** Slavna hrana. Radi se o mojim prošlim sjećanja, receptima i iskustvima jela u restoranima, cafićima i tako dalje.
+
+**Jezik:** Radi se o prevođenja svake stranice na broj jezika, koje govorim. Jer lako je zaboraviti jezik, a ja bih radije ne zaboravila ono, šta trenutno znam. Ti jezici su dio mene, kako sam odrastla, i bilah bi tužna da vidim kako to sve zaboravljam. Nadam se da ću jednog dana dodati i ćlance od prijatelja na dodatnim jezicima!
+
+**Softver:** Radi se o učenju softvera. Koristim Jekyll kao generator statičnih stranica, i stranica je hostirana besplatno s GitHub stranicama. Možete vidjeti sav izvorni kod na mojoj [GitHub](https://github.com/zojasavkovic) stranici. Koristila sam otvoreni [kod](http://www.sylvaindurand.org/making-jekyll-multilingual/) koji sam pronašla.
