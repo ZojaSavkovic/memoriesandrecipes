@@ -51,4 +51,4 @@ lang: sr
 
 И, слика кришке која је започела моју авантуру.
 
-![Кришка која је започела моју авантуру]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)
+![Кришка која је започела моју авантуру]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)

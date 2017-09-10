@@ -51,4 +51,4 @@ The first time I made it I used a square tin, shovelled it in to a lunch box and
 
 To finish, a picture of the poppy seed slice that I bought at a German bakery that started my adventure.
 
-![The slice that started it all]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)
+![The slice that started it all]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)

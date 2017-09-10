@@ -51,4 +51,4 @@ Prvi put kad sam napravila kolač, koristila sam četvrtastoj tepsiju, i stavila
 
 I, slika kriške koja je započela moju avanturu.
 
-![Kriška koja je započela moju avanturu]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)
+![Kriška koja je započela moju avanturu]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)

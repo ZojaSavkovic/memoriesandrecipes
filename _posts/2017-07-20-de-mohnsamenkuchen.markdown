@@ -51,4 +51,4 @@ Das erste Mal, dass ich es machte, benutzte ich einen viereckigen Kuchenblech, s
 
 Zum Ende, ein Bild von der Mohnsamenschnitte, die ich in einer deutschen Bäckerei gekauft habe, die mein Abenteuer begann.
 
-![Die Schnitte, die alles anfang]({{ site.baseurl }}/assets/2017-07-20-poppySeedSliceThatStartedIt.jpg)
+![Die Schnitte, die alles anfang]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)
