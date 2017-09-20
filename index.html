@@ -15,8 +15,11 @@ lang: en
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+            <img class="teaser" src="/assets/teasers/{{post.ref}}.jpg" onError="style.display = 'none';" itemprop="image">
+          </a>
         </h2>
+
       </li>
     {% endfor %}
   </ul>

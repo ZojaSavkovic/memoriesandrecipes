@@ -47,6 +47,10 @@ img {
     vertical-align: middle;
 }
 
+/**
+* Teaser Images
+*/
+.teaser { border: solid 1px $grey-color-light; height: auto; max-height: 80px; margin-bottom: .5em; width: 720px; }
 
 
 /**
