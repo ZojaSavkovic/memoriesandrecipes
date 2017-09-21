@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ceviche"
+title:  "Цевиче"
 date:   2017-08-25 00:00:00 +0100
 categories: eatingout
 ref: ceviche
@@ -11,4 +11,4 @@ lang: sr
 
 Цевиче је сирова риба која је очувана у лимуновом или лимуновом соку. Дакле, док се не куха, није ни сирова јер је очувана. Савршено за љето!
 
-![Ceviche]({{ site.baseurl }}/assets/2017-08-25-ceviche.jpg)
+![Цевиче]({{ site.baseurl }}/assets/2017-08-25-ceviche.jpg)
