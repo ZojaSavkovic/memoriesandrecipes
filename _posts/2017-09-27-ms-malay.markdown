@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Post Tetamu di Bahasa Melayu: Shalom Indonesian Restaurant"
+date:   2017-09-27 00:00:00 +0100
+categories: eatingout
+ref: Malay
+lang: ms
+---
+
+*This is a guest post in Malay by a friend*
+
+![Shalom Indonesian Restaurant]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-sign.jpg)
+
+Shalom. Perkataan yang digunakan oleh orang Yahudi apabila mereka bertemu atau berpisah. Dalam Bahasa Indonesia, perkataan 'Salam' digunakan untuk bertegur sapa. Shalom. Salam. Bunyi, kegunaan dan maknanya serupa - keamanan.
+
+![Interior]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-decor.jpg)
+
+Kami pesan 2 dozen sate ayam untuk dikongsikan dan setiap orang pesan 1/4 ayam dengan nasi. Menunya agak besar dan ayam gorengnya datang dalam pelbagai perisa. Saya pilih ayam goreng Shalom kerana tahap kepedasannya ialah lima cili, dan malam itu, saya mengidamkan makanan pedas (sama seperti setiap malam).
+
+Pesanan kami sampai tidak lama selepas kami membuat pesanan. Saya terasa sedikit kecewa kerana persembahannya kurang memuaskan. Walau bagaimanapun, setelah saya mula menjamu, segalanya telah diampunkan. Persembahannya kecil tetapi keenakannya besar.
+
+![Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-chicken.jpg)
+
+![Satay Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-skewers.jpg)
+
+Kami pesan pencuci mulut ais campur durian untuk dikongsikan, kerana beberapa orang antara kami tidak pernah makan buah durian. Saya gemar buah durian, tetapi rasa buah durian tidak sesuai bagi tunas rasa setiap orang.
+
+![Durian Dessert]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-durian-dessert.jpg)
+
+Kami semua menikmati makanan dan lawak ketawa pada malam itu. Setiap orang sekurang-kurangnya bertemu seorang rakan baru dari latar belakang etnik atau negara lain. Mungkin keamanan dunia boleh dicapai dengan makanan yang sedap seperti makanan dari Shalom.
+
+Shalom!

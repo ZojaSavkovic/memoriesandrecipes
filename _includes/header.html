@@ -43,6 +43,9 @@
     {% if post.lang == 'sr' %}
       {% include icon-flag-sr.html %}
     {% endif %}
+    {% if post.lang == 'ms' %}
+      {% include icon-flag-ms.html %}
+    {% endif %}
   </a> {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}

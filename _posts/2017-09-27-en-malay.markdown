@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Guest Post in Malay: Shalom Indonesian Restaurant"
+date:   2017-09-27 00:00:00 +0100
+categories: eatingout
+ref: Malay
+lang: en
+---
+
+*This is a guest post in Malay by a friend*
+
+Page in progress
+
+![Shalom Indonesian Restaurant]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-sign.jpg)
+
+![Interior]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-decor.jpg)
+
+![Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-chicken.jpg)
+
+![Satay Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-skewers.jpg)
+
+![Durian Dessert]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-durian-dessert.jpg)
