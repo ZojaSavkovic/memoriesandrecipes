@@ -2,7 +2,7 @@
 layout: post
 title:  "Post Tetamu di Bahasa Melayu: Shalom Indonesian Restaurant"
 date:   2017-09-27 00:00:00 +0100
-categories: eatingout
+categories: guestpost
 ref: Malay
 lang: ms
 ---

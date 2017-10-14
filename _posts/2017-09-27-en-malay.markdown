@@ -2,12 +2,12 @@
 layout: post
 title:  "Guest Post in Malay: Shalom Indonesian Restaurant"
 date:   2017-09-27 00:00:00 +0100
-categories: eatingout
+categories: guestpost
 ref: Malay
 lang: en
 ---
 
-*This is a guest post in Malay by a friend*
+*This is a guest post in Malay by a friend. In Malaysia, there is Malaysian Chinese food, Malay Indian food, and Malay food! We went out to eat at a Indonesian restaurant, and this is our experience. I tried Durian, a fruit with a strong flavour, for the first time here!*
 
 Page in progress
 
