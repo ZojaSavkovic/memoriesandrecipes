@@ -7,7 +7,7 @@ ref: Malay
 lang: en
 ---
 
-*This is a guest post in Malay by a friend. In Malaysia, there is Malaysian Chinese food, Malay Indian food, and Malay food! We went out to eat at a Indonesian restaurant, and this is our experience. I tried Durian, a fruit with a strong flavour, for the first time here!*
+*This is a guest post in Malay by a friend. In Malaysia, you can say that there is Malaysian Chinese food, Malay Indian food, and Malay food. We went out to eat at an Indonesian restaurant, and this is our experience. I tried Durian, a fruit with a strong flavour, for the first time here!*
 
 Page in progress
 
@@ -15,8 +15,14 @@ Page in progress
 
 ![Interior]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-decor.jpg)
 
+Grilled chicken with rujak sauce
+
 ![Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-chicken.jpg)
 
+Satay chicken peanut skewers, with rice cubes
+
 ![Satay Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-skewers.jpg)
+
+Dessert - combination shaved ice with durian
 
 ![Durian Dessert]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-durian-dessert.jpg)
