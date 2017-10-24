@@ -7,8 +7,6 @@ ref: Malay
 lang: ms
 ---
 
-*This is a guest post in Malay by a friend*
-
 ![Shalom Indonesian Restaurant]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-sign.jpg)
 
 Shalom. Perkataan yang digunakan oleh orang Yahudi apabila mereka bertemu atau berpisah. Dalam Bahasa Indonesia, perkataan 'Salam' digunakan untuk bertegur sapa. Shalom. Salam. Bunyi, kegunaan dan maknanya serupa - keamanan.

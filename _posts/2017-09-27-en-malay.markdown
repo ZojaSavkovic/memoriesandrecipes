@@ -7,22 +7,26 @@ ref: Malay
 lang: en
 ---
 
-*This is a guest post in Malay by a friend. In Malaysia, you can say that there is Malaysian Chinese food, Malay Indian food, and Malay food. We went out to eat at an Indonesian restaurant, and this is our experience. I tried Durian, a fruit with a strong flavour, for the first time here!*
-
-Page in progress
+*This is a guest post in Malay by a friend. We went out to eat at an Indonesian restaurant with a big group, and this is our experience. I tried grilled chicken with rujak sauce, satay chicken peanut skewers with rice cubes and combination shaved ice with durian, a fruit with a strong flavour. It was my first taste of Durian!*
 
 ![Shalom Indonesian Restaurant]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-sign.jpg)
 
+Shalom. The word used by the Jewish people when they meet or part. In Bahasa Indonesia, the word 'Salam'  is when people greet each other. Shalom. Salam. The utterance, usage, and meaning are similar - peace.
+
 ![Interior]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-decor.jpg)
 
-Grilled chicken with rujak sauce
+We ordered 2 dozen chicken satay skewers for sharing and each of us ordered a quarter chicken meal with rice. There are lots of choices on the menu and the fried chicken comes in all sorts of different flavours. I chose the Shalom fried chicken because the spiciness level is 5-chillies, and on that night, I was craving really spicy food (like any other night).
+
+Our food came not too long after we made our orders. I was a little disappointed because the presentation of the food wasn't that great. However, when I started eating, everything was forgiven. It's not big on presentation but big on taste.
 
 ![Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-chicken.jpg)
 
-Satay chicken peanut skewers, with rice cubes
-
 ![Satay Chicken]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-skewers.jpg)
 
-Dessert - combination shaved ice with durian
+We ordered ais campur durian (shaved ice with durian) for sharing because some of us have never tried durian before. I love durians, but it's an acquired taste.
 
 ![Durian Dessert]({{ site.baseurl }}/assets/2017-09-27-indonesian-restaurant-durian-dessert.jpg)
+
+We all enjoyed the food and the laughter we had that night. Each one of us had at least made a new friend from a different ethnic background or country. Perhaps we can achieve world peace with delicious food like that from Shalom.
+
+Shalom!
