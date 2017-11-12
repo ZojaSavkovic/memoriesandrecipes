@@ -15,6 +15,7 @@ title:
   sr: Сећања и рецепти
   ms: Kenangan dan resipi
   hi: यादें और व्यंजनों
+  fa: خاطرات و دستورات
 flag:
   en: icon-flag-en.html
   de: icon-flag-de.html
@@ -26,6 +27,8 @@ description:
   de: Dies ist ein Blog, wo ich mich eigentlich mit Essen, Schreiben und Codieren beschäftige! Ich schreibe über's Essen auf mehreren Sprachen, die ich spreche, damit ich sie nicht vergesse, während ich über die Software hinter dieser Website lerne, die kostenlos gehostet wird. Viel Spass beim lesen!
   hr: Ovo je blog koji mi omogućuje da jedem, pišem i kodiram! Pišem o hrani na nekolokom jezika, koje govorim, tako da ih ne zaboravim. Učim o softveru za ovu stranicu, i stranici je besplatno hostirana. Nadam se da vam se sviđa u čitanju!
   sr: Ово је блог који ми омогућује да једем, пишем и кодирам! Пишем о храни на неколоком језика, које говорим, тако да их не заборавим. Учим о софтверу за ову страницу, и страници је бесплатно хостирана. Надам се да вам се свиђа у читању!
+dir:
+  fa: rtl
 twitter_username: zojasav
 github_username:  zojasavkovic
 linkedin_username:  zojasavkovic
