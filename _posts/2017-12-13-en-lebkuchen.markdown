@@ -30,7 +30,7 @@ On my quest to learn more about spices, I discovered a shop called Gewürzhaus i
 * nutmeg (1/4 tsp)
 * mace (1/4 tsp) - I left this out as it was not in my spice collection at the time! Most authentic recipes use it though.
 
-The way to make the Lebkuchengewürz is to simply mix all ground the ingredients together. I used a spice grinder for some of the spices which were not pre-ground. In the picture below, before I mixed all the ground spices together, you can still make out which spice is which. The coriander seeds are on the right, where small pieces of their spherical shells can still be spotted. The leafy green one on the left is cardamom, as its green pods and contents were shredded to pieces. The dark brown at the bottom is cloves. One of the mixes at the top is star anise. Ginger is the lightest one.
+The way to make the Lebkuchengewürz is to simply mix all the ground ingredients together. I used a spice grinder for some of the spices which were not pre-ground. In the picture below, before I mixed all the ground spices together, you can still make out which spice is which. The coriander seeds are on the right, where small pieces of their spherical shells can still be spotted. The leafy green one on the left is cardamom, as its green pods and contents were shredded to pieces. The dark brown at the bottom is cloves. One of the mixes at the top is star anise. Ginger is the lightest one.
 
 ![Lebkuchengewürz]({{ site.baseurl }}/assets/2017-12-13-lebkuchen-gewurz.jpg)
 
