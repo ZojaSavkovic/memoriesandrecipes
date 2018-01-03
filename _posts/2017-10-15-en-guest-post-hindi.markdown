@@ -15,6 +15,8 @@ I recently turned vegan and one of my favourite and most tastiest sources of pro
 
 Below are a few of my memories regarding this dish.
 
+![Rajma Chawal]({{site.baseurl}}/assets/2017-10-15-rajma-chawal.jpg)
+
 My family and I are on a plane to India from England when I was about 5 years old. The air hostess asks us what meal we would like to have - Chicken or Rajma. I thought the most obvious choice for anyone to make is Chicken but am surprised when my mom asks for Rajma. I ask her why she chose Rajma, she tells me it’s been her favourite dish since forever. I am intrigued and curious to understand what could be so awesome about Rajma that makes it better than Chicken for my mother.
 
 My mom and I used to go to my dad’s auntie’s house very often while I was living in Delhi. Every time we went, my dad’s auntie always had only Rajma prepared for my mom and me. One day I complained: why must we eat Rajma all the time, isn’t there any other food in the world?  My dad’s auntie told me it is my mom’s favourite and that is why she makes it. 
