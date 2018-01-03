@@ -11,7 +11,7 @@ lang: de
 
 Innen bemerkt man erst die intime Beleuchtung. Danach das Brot und Olivenöl, für die sie berühmt sind.
 
-![Brot und Olivenöl]({{ site.baseurl }}/assets/2017-09-20-pendolinoBreadAndOliveOil.jpg)
+![Brot und Olivenöl]({{ site.baseurl }}/assets/2017-09-20-pendolino-bread-and-olive-oil.jpg)
 
 Ich überlasse das Reden jetzt der Menübeschreibung und den Fotos der 3-Gänge-Mahlzeit.
 
@@ -19,23 +19,23 @@ Ich überlasse das Reden jetzt der Menübeschreibung und den Fotos der 3-Gänge-
 
 Schwarze Gerste, Dinkel, Buchweizen, Linsen, gebratene Cannellini Bohnen, Stracchino Käse, Tomaten, Apfelwein Vinaigrette.
 
-![Vorspeise]({{ site.baseurl }}/assets/2017-09-20-pendolinoEntree.jpg)
+![Vorspeise]({{ site.baseurl }}/assets/2017-09-20-pendolino-entree.jpg)
 
 *Hauptgericht: AUBERGINE UND PAPRIKA TORTELETT*
 
 Büffelmilch Mozzarella, Kartoffelpüree von holländischen Kartoffeln, Lauch Konfitüre, Pecorino Fonduta.
 
-![Hauptgericht]({{ site.baseurl }}/assets/2017-09-20-pendolinoMain.jpg)
+![Hauptgericht]({{ site.baseurl }}/assets/2017-09-20-pendolino-main.jpg)
 
 *Nachtisch: ECLAIR ALLA GIANDUIA*
 
 Schokoladen-Haselnuss-Eclair, geröstete Haselnüsse, süße Sahne, kandierte Aprikosen, Nocello
 
-![Nachtisch]({{ site.baseurl }}/assets/2017-09-20-pendolinoDessert.jpg)
+![Nachtisch]({{ site.baseurl }}/assets/2017-09-20-pendolino-dessert.jpg)
 
 Wie erwartet, war jedes Gericht perfekt. Die Speisekarte bietet noch viel mehr Gerichte, über die main Träumen kann!
 
-![Menu]({{ site.baseurl }}/assets/2017-09-20-pendolinoMenu.jpg)
+![Menu]({{ site.baseurl }}/assets/2017-09-20-pendolino-menu.jpg)
 
 
 

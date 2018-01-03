@@ -11,7 +11,7 @@ lang: de
 
 Mein zweiter Versuch in einem runden Kuchenblech ist schöner und bekommt also die top-Bildpositzion!
 
-![Zweiter Mohnkuchen  - im rundern Kuchenblech gebakt]({{ site.baseurl }}/assets/2017-07-20-poppySeedRoundTin.jpg)
+![Zweiter Mohnkuchen  - im rundern Kuchenblech gebakt]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-round-tin.jpg)
 
 **Zutaten für den Kuchen:**
 * 240 g (1½ Tassen) Mohnsamen
@@ -47,8 +47,8 @@ Mein zweiter Versuch in einem runden Kuchenblech ist schöner und bekommt also d
 
 Das erste Mal, dass ich es machte, benutzte ich einen viereckigen Kuchenblech, schob es in eine Lunchbox und brachte es zu einem Weihnachten-im-Juli Land entkommen und es war ein Hit. Das Bild mit dem Holzfeuer im Hintergrund hält den Moment fest. Es war passend für ein Weihnachtsthema, denn es ist eine ukrainische Sitte zu Weihnachten.
 
-![Erster Mohnkuchen  - im viereckigen Kuchenblech gebakt]({{ site.baseurl }}/assets/2017-07-20-poppySeedSquareTin.jpg)
+![Erster Mohnkuchen  - im viereckigen Kuchenblech gebakt]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-square-tin.jpg)
 
 Zum Ende, ein Bild von der Mohnsamenschnitte, die ich in einer deutschen Bäckerei gekauft habe, die mein Abenteuer begann.
 
-![Die Schnitte, die alles anfang]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)
+![Die Schnitte, die alles anfang]({{ site.baseurl }}/assets/2017-07-20-bakery-poppy-seed-slice.jpg)

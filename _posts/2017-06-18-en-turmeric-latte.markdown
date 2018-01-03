@@ -11,10 +11,10 @@ lang: en
 
 I am always a bit excited about visiting Alexandria. The mix of industrial estates and cafe culture make it so different to anywhere else. I arrive at Pana Chocolate and bask in the window of chocolate first.
 
-![Pana Chocolate Display]({{ site.baseurl }}/assets/2017-06-18-panaChocolate.jpg)
+![Pana Chocolate Display]({{ site.baseurl }}/assets/2017-06-18-pana-chocolate.jpg)
 
 After appreciating the display, I notice the shiny lab like kitchen behind it. So far, impressions are good. I glance at the menu and order a “Goldie” hot drink, knowing only the description in the menu, something about cinnamon.
 
-![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-panaChocolateTurmericLatte.jpg)
+![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-pana-chocolate-turmeric-latte.jpg)
 
 It’s basically a turmeric chai latte, a drink apparently originating in India, which is only recently popping up in western hipster culture. This one is an A+. I sit sipping wondering how I had not come across it before. It has definitely made it onto my list of hot drink options.

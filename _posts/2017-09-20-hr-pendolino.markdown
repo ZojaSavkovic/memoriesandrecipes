@@ -11,7 +11,7 @@ lang: hr
 
 Prvo primijetis iznutra mekano svjetlo. Drugo, kruh i maslinovo ulje, za koje su poznati.
 
-![kruh i maslinovo ulje]({{ site.baseurl }}/assets/2017-09-20-pendolinoBreadAndOliveOil.jpg)
+![kruh i maslinovo ulje]({{ site.baseurl }}/assets/2017-09-20-pendolino-bread-and-olive-oil.jpg)
 
 Opisavanje cu da ostavim jelovniku i slikama.
 
@@ -19,23 +19,23 @@ Opisavanje cu da ostavim jelovniku i slikama.
 
 Crni ječam, raženi, heljda, leće, prženi kanačini grah, stracchino sir, rajčica, jabukovača vinaigrette.
 
-![Ulaz]({{ site.baseurl }}/assets/2017-09-20-pendolinoEntree.jpg)
+![Ulaz]({{ site.baseurl }}/assets/2017-09-20-pendolino-entree.jpg)
 
 *Glavno jelo: PITA OD PATLIDZANA I PAPRIKE*
 
 Buffalo Milk Mozzarella, Creamed Dutch Potato, Confit Leek, Pecorino Fonduta.
 
-![Glavno jelo]({{ site.baseurl }}/assets/2017-09-20-pendolinoMain.jpg)
+![Glavno jelo]({{ site.baseurl }}/assets/2017-09-20-pendolino-main.jpg)
 
 *Dezert: ECLAIR ALLA GIANDUIA*
 
 Čokoladni lješnjak Eclair, prženi lješnjaci, sladoled, kandirano marelice, Nocello
 
-![Dezert]({{ site.baseurl }}/assets/2017-09-20-pendolinoDessert.jpg)
+![Dezert]({{ site.baseurl }}/assets/2017-09-20-pendolino-dessert.jpg)
 
 Kao što sam i očekivala, svaki dio svakog jela je bio savršen. Ima mnogo više jela, da se želi!
 
-![Jelovnik]({{ site.baseurl }}/assets/2017-09-20-pendolinoMenu.jpg)
+![Jelovnik]({{ site.baseurl }}/assets/2017-09-20-pendolino-menu.jpg)
 
 
 

@@ -11,7 +11,7 @@ lang: sr
 
 Прво примијетис изнутра мекано свјетло. Друго, крух и маслиново уље, за које су познати.
 
-![крух и маслиново уље]({{ site.baseurl }}/assets/2017-09-20-pendolinoBreadAndOliveOil.jpg)
+![крух и маслиново уље]({{ site.baseurl }}/assets/2017-09-20-pendolino-bread-and-olive-oil.jpg)
 
 Описавање цу да оставим јеловнику и сликама.
 
@@ -19,23 +19,23 @@ lang: sr
 
 Црни јечам, ражени, хељда, леће, пржени каначини грах, страцчино сир, рајчица, јабуковача винаигретте.
 
-![Улаз]({{ site.baseurl }}/assets/2017-09-20-pendolinoEntree.jpg)
+![Улаз]({{ site.baseurl }}/assets/2017-09-20-pendolino-entree.jpg)
 
 *Главно јело: ПИТА ОД ПАТЛИДЗАНА И ПАПРИКЕ*
 
 Буффало Милк Моззарелла, Цреамед Дутч Потато, Цонфит Леек, Пецорино Фондута.
 
-![Главно јело]({{ site.baseurl }}/assets/2017-09-20-pendolinoMain.jpg)
+![Главно јело]({{ site.baseurl }}/assets/2017-09-20-pendolino-main.jpg)
 
 *Дезерт: ЕЦЛАИР АЛЛА ГИАНДУИА*
 
 Чоколадни љешњак Ецлаир, пржени љешњаци, сладолед, кандирано марелице, Ноцелло
 
-![Дезерт]({{ site.baseurl }}/assets/2017-09-20-pendolinoDessert.jpg)
+![Дезерт]({{ site.baseurl }}/assets/2017-09-20-pendolino-dessert.jpg)
 
 Као што сам и очекивала, сваки дио сваког јела је био савршен. Има много више јела, да се жели!
 
-!Јеловник]({{ site.baseurl }}/assets/2017-09-20-pendolinoMenu.jpg)
+![Јеловник]({{ site.baseurl }}/assets/2017-09-20-pendolino-menu.jpg)
 
 
 

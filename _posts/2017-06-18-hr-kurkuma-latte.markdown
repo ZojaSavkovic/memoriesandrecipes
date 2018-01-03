@@ -11,10 +11,10 @@ lang: hr
 
 Uvijek sam malo uzbuđena posjetit Aleksandriji. Mješavina industrijskih posjeda i kulture kafića čine ga toliko različitim negdje drugdje. Dolazim do Pana Chocolate i prvo se nalazim u prozoru čokolade.
 
-![Pana Chocolate Display]({{ site.baseurl }}/assets/2017-06-18-panaChocolate.jpg)
+![Pana Chocolate Display]({{ site.baseurl }}/assets/2017-06-18-pana-chocolate.jpg)
 
 Nakon toga, primijetila sam da je iza toga kuhinja, kao laboratorije. Dosad su dojmovi dobri. Pogledam na jelovnik i naručujem "Goldie" vruće napitke, znajući samo opis u izborniku, nešto o cimetu.
 
-![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-panaChocolateTurmericLatte.jpg)
+![Pana Chocolate Goldie]({{ site.baseurl }}/assets/2017-06-18-pana-chocolate-turmeric-latte.jpg)
 
 U osnovi je kurkuma chai latte, uobičajeno piće koje potječe iz Indije, koja se tek nedavno pojavila u zapadnoj kulturi hipstera. Ovo je A +. Sjedim pijuckajući pitajući se kako to prije nisam našla. To je definitivno napravilo moj popis od opcija vruće piće.

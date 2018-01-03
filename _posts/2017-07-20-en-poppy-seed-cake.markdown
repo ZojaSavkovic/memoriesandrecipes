@@ -11,7 +11,7 @@ lang: en
 
 My second attempt in a round tin is more glamorous and gets the top picture spot!
 
-![Second Poppy Seed Cake  - made in a round tin]({{ site.baseurl }}/assets/2017-07-20-poppySeedRoundTin.jpg)
+![Second Poppy Seed Cake  - made in a round tin]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-round-tin.jpg)
 
 **Ingredients for the cake:**
 * 240 g (1½ cups) poppy seeds
@@ -47,8 +47,8 @@ My second attempt in a round tin is more glamorous and gets the top picture spot
 
 The first time I made it I used a square tin, shovelled it in to a lunch box and brought it along to a Christmas in July country escape and it was a hit. The picture below by the woodfire in the background captures the moment. It was apt for a Christmas theme, as searching online, it is a Ukrainian custom at Christmas.
 
-![First Poppy Seed Cake  - made in a square tin]({{ site.baseurl }}/assets/2017-07-20-poppySeedSquareTin.jpg)
+![First Poppy Seed Cake  - made in a square tin]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-square-tin.jpg)
 
 To finish, a picture of the poppy seed slice that I bought at a German bakery that started my adventure.
 
-![The slice that started it all]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)
+![The slice that started it all]({{ site.baseurl }}/assets/2017-07-20-bakery-poppy-seed-slice.jpg)

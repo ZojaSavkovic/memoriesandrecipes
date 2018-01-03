@@ -11,7 +11,7 @@ lang: hr
 
 Moj drugi pokušaj u okrugloj tepsiji je više je glamurozan.
 
-![Prvi kolač od maka - u okrugloj tepsiji]({{ site.baseurl }}/assets/2017-07-20-poppySeedRoundTin.jpg)
+![Prvi kolač od maka - u okrugloj tepsiji]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-round-tin.jpg)
 
 **Sastojci za kolač:**
 * 240 g sjemenke maka
@@ -47,8 +47,8 @@ Moj drugi pokušaj u okrugloj tepsiji je više je glamurozan.
 
 Prvi put kad sam napravila kolač, koristila sam četvrtastoj tepsiju, i stavila u kutiju za ručak i dovla na ekskurziju božića u Julu, i bilo je hit. Sljedeća slika sa kaminom u pozadini bilježi trenutak. Bio je prikladan za božićnu temu, jer pretražuje on-line, to je ukrajinski običaj na Božić.
 
-![Prvi kolač od maka - u četvrtastoj tepsiji]({{ site.baseurl }}/assets/2017-07-20-poppySeedSquareTin.jpg)
+![Prvi kolač od maka - u četvrtastoj tepsiji]({{ site.baseurl }}/assets/2017-07-20-poppy-seed-square-tin.jpg)
 
 I, slika kriške koja je započela moju avanturu.
 
-![Kriška koja je započela moju avanturu]({{ site.baseurl }}/assets/2017-07-20-bakeryPoppySeedSliceThatStartedIt.jpg)
+![Kriška koja je započela moju avanturu]({{ site.baseurl }}/assets/2017-07-20-bakery-poppy-seed-slice.jpg)
