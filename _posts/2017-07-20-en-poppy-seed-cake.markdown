@@ -27,7 +27,7 @@ My second attempt in a round tin is more glamorous and gets the top picture spot
 
 **Ingredients for the icing:**
 * 150 g dark chocolate
-* 125 ml (½ cup) pouring cream
+* 125 ml (½ cup) pouring cream (pure cream with 35% fat content)
 
 **Steps the day before:**
 1. Pour boiling water over the poppy seeds in a bowl.
@@ -38,9 +38,9 @@ My second attempt in a round tin is more glamorous and gets the top picture spot
 1. Preheat the oven to 150°C.
 2. Beat the butter, vanilla and caster sugar until pale and fluffy.
 3. Beat in the egg yolks, one by one.
-4. Stir in the ground almonds, baking powder, a pinch of salt and poppy seeds.
+4. Stir in the ground almonds, baking powder, salt and poppy seeds.
 5. Fold in the egg whites, beaten to stiff peaks.
-6. Pour in to a greased, lined 20 cm springform pan and bake for 1 hour, or until just firm.
+6. Pour in to a greased, lined 20 cm springform pan and bake for 40 minutes, or until just firm.
 7. Stand for 5 minutes, then turn out on to a plate and cool.
 8. Melt the dark chocolate with the pouring cream.
 9. Cool for 20 minutes, then spread over the cake.

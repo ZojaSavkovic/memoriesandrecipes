@@ -38,9 +38,9 @@ Moj drugi pokušaj u okrugloj tepsiji je više je glamurozan.
 1. Zagrijte pećnicu na  150°C.
 2. Pobijedite maslac, vaniliju i pecivo šećer dok ne postanete blijedi i sofi.
 3. Dodajte žumanjca, jedno po jedno.
-4. Umiješajte u zemlju bademi, prašak za pecivo, prstohvat soli i maka sjemena.
+4. Umiješajte u zemlju bademi, prašak za pecivo, soli i maka sjemena.
 5. Presavijte se u bjelanjcima, pretučene u krute vrhove.
-6. Ulijte na podmazanu, obloženu tavu od 20 cm i pecite 1 sat, ili dok ne budete čvrsto.
+6. Ulijte na podmazanu, obloženu tavu od 20 cm i pecite 40 minuta, ili dok ne budete čvrsto.
 7. Stajati 5 minuta, i zatim na tanjur staviti da se ohladi.
 8. Temeljnu čokoladu rastopite s vrhnjem za lijevanje.
 9. Stajati 20 minuta, i zatim razmazite preko kolača.

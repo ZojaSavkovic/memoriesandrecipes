@@ -40,7 +40,7 @@ Mein zweiter Versuch in einem runden Kuchenblech ist schöner und bekommt also d
 3. Die Eigelbe einschlagen, eins bei eins.
 4. Gemahlene Mandeln, Backpulver, Salz und Mohnsamen einrühren.
 5. Die Eiweisse einrühren, geschlagen zu steifen Gipfeln.
-6. Eine 20er Springform mit Backpapier auskleiden, und darin eingiessen. Eine Stunde Backen.
+6. Eine 20er Springform mit Backpapier auskleiden, und darin eingiessen. 40 Minuten Backen.
 7. 5 Minuten standen lassen, dann aus der form lösen zum auskühlen.
 8. Die dunkle Schokolade mit der Schlagsahne schmelzen.
 9. 20 Minuten auskühlen, dann den Kuchen damit überziehen.
