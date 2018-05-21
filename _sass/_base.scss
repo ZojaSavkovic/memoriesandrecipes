@@ -25,7 +25,9 @@ body {
     font-kerning: normal;
 }
 
-
+p {
+    text-align: justify;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -47,10 +49,28 @@ img {
     vertical-align: middle;
 }
 
+p {
+    img {
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+    }
+}
+
 /**
 * Teaser Images
 */
-.teaser { border: solid 1px $grey-color-light; height: auto; max-height: 80px; margin-bottom: .5em; width: 720px; }
+.teaser { 
+    border: solid 1px
+    $grey-color-light; 
+    height: auto; 
+    max-height: 80px; 
+    margin-bottom: .5em; 
+    width: 720px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
 
 
 /**
