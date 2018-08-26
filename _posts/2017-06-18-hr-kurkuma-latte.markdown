@@ -2,7 +2,7 @@
 layout: post
 title:  "Kurkuma Latte"
 date:   2017-06-18 00:00:00 +0100
-categories: eatingout
+categories: [eatingout, drink]
 ref: turmeric-latte
 lang: hr
 ---

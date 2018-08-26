@@ -2,7 +2,7 @@
 layout: post
 title:  "Сангриа"
 date:   2018-01-07 00:00:00 +0100
-categories: recipe
+categories: [recipe, drink]
 ref: sangria
 lang: sr
 ---

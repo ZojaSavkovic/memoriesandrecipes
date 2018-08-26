@@ -2,7 +2,7 @@
 layout: post
 title:  "Masala ćaj smjesa"
 date:   2017-11-01 00:00:00 +0100
-categories: recipe
+categories: [recipe, drink]
 ref: chai-blend
 lang: hr
 ---
