@@ -41,8 +41,8 @@ Lebkuchengewürz se napravi kada se svi gore navedeni sastojci samelju i dobro p
 * 1 1/4 šolja smeđed šećera
 * 1/3 šolje meda
 * 1 čajna kašika ekstrakta od vanilije
-* 250 g bademovog brašna
-* 250 g brašna od lješnjika
+* 250 g (2 1/2 šolja) bademovog brašna
+* 250 g (2 1/2 šolja) brašna od lješnjika
 * 1/4 čajne kašike soli
 * 1/2 čajne kašike prašak za pecivo
 * 3 čajne kašike Lebkuchengewürz
@@ -63,7 +63,7 @@ Lebkuchengewürz se napravi kada se svi gore navedeni sastojci samelju i dobro p
 4. Dodajte preostale sastojke, i tu smjesu sada dobro promješajte sa drvenom kuhacom. Ako je smjesa previše tećna dodajte malo više brasna od badema ili lješnjaka.
 5. Kašikom formirajte male disckove i stavljajte na papir za pećenje.
 6. Pećite 25 minuta. Ostavite da se potpuno ohladi.
-7. Za čokoladnu glazuru stavite čokoladu i kokosovo ulje u malu zdjelu. Istopite u mikrovelnoj pećnici uz povremeno mješanje. Odmah koristiti. Ako glazura postane čvrsta opet podgrijte glazuru u mikrovalnoj pećnici.
+7. Za čokoladnu glazuru stavite čokoladu i kokosovo ulje u malu zdjelu. Istopite u mikrovelnoj pećnici uz povremeno mješanje.
 8. Za glazuru šećera stavite šećer u prahu u malu zdjelicu sa vodom i miješajte dok ne postane glatko.
 9. Umočiti pola Lebkuchena u čokoladnu glazuru i pola u glazuru šećera. Ukrasite sa tri listica badema na svaki Lebkuchen dok je glazura još vlažna. Ostavite Lebkuchen da se ohladi I glazura stvrdne.
 

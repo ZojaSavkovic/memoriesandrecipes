@@ -42,8 +42,8 @@ Um Lebkuchengewürz zu machen, einfach alle Zutaten erst mahlen, dann zusammen z
 * 1 1/4 Tassen brauner Zucker
 * 1/3 Tasse Honig
 * 1 Teelöffel Vanilleextrakt
-* 250 g Mandelmahlzeit
-* 250 g Haselnussmehl
+* 250 g (2 1/2 Tassen) Mandelmahlzeit
+* 250 g (2 1/2 Tassen) Haselnussmehl
 * 1/4 Teelöffel Salz
 * 1/2 Teelöffel Backpulver
 * 3 Teelöffel Lebkuchengewürz
@@ -62,10 +62,10 @@ Um Lebkuchengewürz zu machen, einfach alle Zutaten erst mahlen, dann zusammen z
 1. Den Ofen auf 150°C vorheizen.
 2. Die Orangen-Zitronen-Mischschale mit dem Mehl vermischen (dass es nicht zusammenklebt) und dann in einer Küchenmaschine pulsieren. Zur seite legen.
 3. In einer großen Rührschüssel die Eier mit einem Handmixer schaumig schlagen. Den Zucker, Honig und Vanilleextrakt hinfügen und mit einem Handmixer schlagen, bis kombiniert.
-4. Das gemahlene Mandelmehl, gemahlenes Haselnussmehl, Salz, Backpulver, Lebkuchengewürz und gemischte Schale zugeben und mit einem Holzlöffel kräftig umrühren, bis alles gut vermischt ist. Die Mischung wird nass sein, aber wenn es zu dünn ist, um es auf Backpapier zu legen, noch etwas Mandel- oder Haselnussmehl hinzufügen.
-5. Die Mischung auf Backpapier schöpfen, Ovale machen, die Oberseite glätten.
+4. Das gemahlene Mandelmehl, gemahlenes Haselnussmehl, Salz, Backpulver, Lebkuchengewürz und gemischte Schale zugeben und mit einem Holzlöffel umrühren, bis alles vermischt ist. Die Mischung wird nass sein, aber wenn es zu dünn ist, um es auf Backpapier zu legen, noch etwas Mandel- oder Haselnussmehl hinzufügen.
+5. Die Mischung auf Backpapier schöpfen, die Oberseite glätten.
 6. 25 Minuten backen. Vollständig abkühlen lassen.
-7. Für die Schokoladenglasur, Schokolade und Öl in eine kleine Schüssel geben, dann in der Mikrowelle 30 sekunden schmelzen, und gelegentlich umrühren, bis alles geschmolzen ist. Sofort verwenden. Wenn die Glasur fest wird, in der Mikrowelle wieder aufwärmen.
+7. Für die Schokoladenglasur, Schokolade und Öl in eine kleine Schüssel geben, dann in der Mikrowelle 30 sekunden schmelzen, und gelegentlich umrühren, bis alles geschmolzen ist.
 8. Für die Zuckerglasur, Puderzucker und Wasser in eine kleine Schüssel geben und rühren bis glatt.
 9. Die Hälfte der Lebkuchen in die Schokoladenglasur Tauchen, und die andere Hälfte in die Zuckerglasur. An jedem Lebkuchen 3 Mandelsplitter verteilen, während die Glasur noch feucht ist. Lebkuchen vollständig trocknen lassen, bis die Glasur ausgehärtet ist.
 

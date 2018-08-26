@@ -42,8 +42,8 @@ The way to make the Lebkuchengewürz is to simply mix all the ground ingredients
 * 1 1/4 cups brown sugar
 * 1/3 cup honey
 * 1 teaspoon pure vanilla extract
-* 250 g almond meal
-* 250 g hazelnut meal
+* 250 g (2 1/2 cups) almond meal
+* 250 g (2 1/2 cups) hazelnut meal
 * 1/4 teaspoon salt
 * 1/2 teaspoon baking powder
 * 3 teaspoons Lebkuchengewürz
@@ -62,10 +62,10 @@ The way to make the Lebkuchengewürz is to simply mix all the ground ingredients
 1. Preheat oven to 150 degrees Celsius.
 2. Toss the mixed peel with the flour (to keep it from sticking together) and then pulse in a food processor until finely minced. Set aside.
 3. In a large mixing bowl, beat the eggs with a hand mixer until foamy. Add the sugar, honey and vanilla extract and beat with a hand mixer until combined.
-4. Add the ground almond meal, ground hazelnut meal, salt, baking powder, Lebkuchengewürz, and mixed peel and stir vigorously with a wooden spoon until thoroughly combined. The mixture will be wet but if it is too thin to scoop on to baking paper, add some more almond or hazelnut meal.
-5. Scoop the mixture onto baking paper, making ovals, smoothing down the top.
+4. Add the ground almond meal, ground hazelnut meal, salt, baking powder, Lebkuchengewürz, and mixed peel and stir with a wooden spoon until combined. The mixture will be wet but if it is too thin to scoop on to baking paper, add some more almond or hazelnut meal.
+5. Scoop the mixture onto baking paper, smoothing down the top.
 6. Bake for 25 minutes. Allow to cool completely.
-7. For the chocolate glaze, place chocolate and oil in a small bowl and microwave stirring occasionally, until melted. Use immediately. If glaze becomes firm, reheat in the microwave.
+7. For the chocolate glaze, place chocolate and oil in a small bowl and microwave stirring occasionally, until melted.
 8. For the sugar glaze, place icing sugar and water in a small bowl and stir until smooth.
 9. Dip half the Lebkuchen in the chocolate glaze and half in the sugar glaze. Arrange 3 slivered almonds on each Lebkuchen while the glaze is still wet. Let the Lebkuchen dry completely until the glaze is hardened.
 
