@@ -22,7 +22,7 @@ This makes 4 rolls.
 **Materials**
 
 * 5 clean tea towels, as large as the wafer sheets
-* Aluminium foil
+* aluminium foil
 
 **Ingredients**
 
@@ -50,7 +50,7 @@ This makes 4 rolls.
 11. Divide chocolate/fruit mixture (from step 8) into 4 parts so that there will be enough for 4 wafer sheets.
 12. Place one part of the chocolate/fruit mixture (from step 8) on the damp wafer sheet. Spread the mixture out, keeping in mind you will need to roll it in the next step.
 13. Roll the wafer only, and not the aluminium foil. If the wafer does not roll easily but starts to break, you can spray warm water on to the wafer to dampen it. Once the wafer rolled up, wrap the aluminium foil around the wafer, and twist the ends of the foil to seal it in foil.
-14. Repeat steps 12-14 for the other 3 rolls.
+14. Repeat steps 12-13 for the other 3 rolls.
 15. Place all 4 rolls in the fridge/freezer. When they cool down, they are ready to be eaten. Cut them in to slices to serve.
 16. Enjoy!
 
