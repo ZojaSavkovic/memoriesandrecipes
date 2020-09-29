@@ -13,7 +13,7 @@ Well 2020 is turning out to be a unique year! I found myself making [these](http
 
 ![Peanut butter cookies]({{ site.baseurl }}/assets/2020-09-26-peanut-butter-cookies.jpg)
 
-Variations include adding dried fig, walnuts, crushed plain biscuits and chocolate chips - I had some spares of these when I did my fig roll post (link), and liked the roll so much that I wanted to make a cookie flavour of it.
+Variations include adding dried fig, walnuts, crushed plain biscuits and chocolate chips - I had some spares of these when I did my fig roll [post](http://memoriesandrecipes.com/recipe/2020/04/08/en-fig-roll.html), and liked the roll so much that I wanted to make a cookie flavour of it.
 
 ![Variations of the peanut butter cookies]({{ site.baseurl }}/assets/2020-09-26-cookies-fig-roll-vairation-with-walnut-on-top.jpg)
 
