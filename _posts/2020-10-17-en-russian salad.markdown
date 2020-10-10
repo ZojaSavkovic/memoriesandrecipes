@@ -15,7 +15,7 @@ It does go deliciously with the kiflice from the last [post](http://memoriesandr
 
 ![Wafers]({{ site.baseurl }}/assets/2020-10-17-russian-salad-with-kiflice.jpg)
 
-Ingredients
+**Ingredients**
 
 * 5 eggs
 * 5 medium carrots
@@ -29,7 +29,7 @@ Ingredients
 * 1 tablespoon mustard
 * pinch of salt
 
-Steps
+**Steps**
 
 1. Hard boil the eggs.
 2. Boil the carrots and potatoes until soft.

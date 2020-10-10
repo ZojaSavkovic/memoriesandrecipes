@@ -21,7 +21,7 @@ As for the history of kiflice - there is lots out there! Wikipedia currently sum
 
 Here is the recipe that I grew up eating.
 
-Ingredients
+**Ingredients**
 
 * 600g flour
 * one sachet of yeast
@@ -30,7 +30,7 @@ Ingredients
 * 1 egg yolk for glazing
 * nigella or caraway seeds
 
-Steps
+**Steps**
 
 1. Mix flour, yeast, eggs and oil together.
 2. Leave to rise one hour. 
