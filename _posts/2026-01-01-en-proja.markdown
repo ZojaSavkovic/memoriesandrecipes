@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Proja - Cornbread"
+date:   2025-01-01 00:00:00 +0100
+categories: recipe
+ref: proja
+lang: en
+---
+
+*I grew up eating a version of cornbread, and was not sure if this was just a thing my family made, or if it was widespread. Turns out it is a thing, and this [blog](https://thebalkanhostess.com/starinska-proja/) explains it well.*
+
+But the version I grew up eating is still a variation, due to the addition of zucchini and spinach. I think the cream also does the trick to make it taste amazing! 
+
+![Proja]({{ site.baseurl }}/assets/2026-01-01-proja.jpg)
+
+**Ingredients**
+
+* 3 eggs
+* 2/3 cup corn flour
+* 1/2 cup white self raising flour
+* 1/2 cup semolina
+* 1 teaspoon baking powder 
+* 600 mL thickened cream
+* 259g ricotta cheese (or feta cheese, or both)
+* 1/3 cup olive oil
+* 3 shredded zucchini
+* 120g baby spinach
+* pinch of salt
+* butter
+
+**Steps**
+
+1. Preheat the oven to 200 degrees Celsius.
+2. Mix the eggs, corn flour, white selfrising flour, semolina, baking powder.
+3. Add the thickened cream, ricotta cheese, olive oil, zucchini, spinach and salt.
+4. Mix well. The batter should be consistent and not fluid. When running a utensil through it, you should be able to see a line traced. If it is too thick, add milk. If it is too fluid, add flour.
+5. Prepare a baking dish by coating it in butter and a bit of semolina to avoid sticking.
+Pour the mixture in the baking dish. Place foil over the dish.
+6. On the top of the mixture you can place 10 pea sized pieces of butter.
+7. Bake for about 1 hour, depends on the oven, could be an extra 10-15 minutes. At about 50-60 min, remove the foil cover.
+It is ready when a fork comes out clean and the dish is golden brown. 
